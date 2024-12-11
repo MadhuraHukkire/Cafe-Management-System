@@ -1,5 +1,5 @@
 # Cafe-Management-System
-The project based for simple cafe management software
+#The project based for simple cafe management software
 menu={"pizza":90,
       "pasta":50,
       "burger":60,
